@@ -1,0 +1,15 @@
+D:\Code\Chatbot\Chatbot\bin\Debug\net6.0\Chatbot.exe
+D:\Code\Chatbot\Chatbot\bin\Debug\net6.0\Chatbot.deps.json
+D:\Code\Chatbot\Chatbot\bin\Debug\net6.0\Chatbot.runtimeconfig.json
+D:\Code\Chatbot\Chatbot\bin\Debug\net6.0\Chatbot.dll
+D:\Code\Chatbot\Chatbot\bin\Debug\net6.0\Chatbot.pdb
+D:\Code\Chatbot\Chatbot\obj\Debug\net6.0\Chatbot.csproj.AssemblyReference.cache
+D:\Code\Chatbot\Chatbot\obj\Debug\net6.0\Chatbot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Chatbot\Chatbot\obj\Debug\net6.0\Chatbot.AssemblyInfoInputs.cache
+D:\Code\Chatbot\Chatbot\obj\Debug\net6.0\Chatbot.AssemblyInfo.cs
+D:\Code\Chatbot\Chatbot\obj\Debug\net6.0\Chatbot.csproj.CoreCompileInputs.cache
+D:\Code\Chatbot\Chatbot\obj\Debug\net6.0\Chatbot.dll
+D:\Code\Chatbot\Chatbot\obj\Debug\net6.0\refint\Chatbot.dll
+D:\Code\Chatbot\Chatbot\obj\Debug\net6.0\Chatbot.pdb
+D:\Code\Chatbot\Chatbot\obj\Debug\net6.0\Chatbot.genruntimeconfig.cache
+D:\Code\Chatbot\Chatbot\obj\Debug\net6.0\ref\Chatbot.dll
